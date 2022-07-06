@@ -1,5 +1,5 @@
-def m1():
+def m2():
     return 0
 
-def m3():
+def m4():
     return 1
