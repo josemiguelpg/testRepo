@@ -1,2 +1,2 @@
-def levenshtein():
+def lewenshtein():
     return 2
